@@ -24,3 +24,6 @@ p{
   color: #222831;
   font-family: Biotif-Regular,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
+img{
+  border-radius:  100%;
+}
